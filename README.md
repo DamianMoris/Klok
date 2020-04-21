@@ -2,4 +2,4 @@
 
 [GitHub](https://github.com/DamianMoris/Klok.git)
 
-![Klok](Klok.jpg)
+![KlokPCB](Nixie_Klok_PCB.jpg)
