@@ -1,4 +1,4 @@
-# Klok
+# Nixie Klok
 
 [GitHub](https://github.com/DamianMoris/Klok.git)
 
