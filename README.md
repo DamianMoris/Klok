@@ -2,4 +2,5 @@
 
 [GitHub](https://github.com/DamianMoris/Klok.git)
 
-![KlokPCB](Nixie_Klok_PCB_2.PNG)
+![Component Layer](Nixie_Component_Layer.PNG)
+![Nixie Tube Layer](Nixie_Nixie_Layer.PNG)
